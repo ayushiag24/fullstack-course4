@@ -1,2 +1,2 @@
-# fullstack-course4
+# fullstack-course4-assignments
 coursera test repository
